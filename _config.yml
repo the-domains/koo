@@ -1,4 +1,3 @@
-layout_spectrum: 0.45327859628014266
 typography_spectrum: 0.7870120028965175
 color:
   brandStrength: 0.7809275446925312
@@ -11,5 +10,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.45327859628014266
 name: '&KOO'
 title: KOO
+description: 'your vision, actualized with creativity and technology'
